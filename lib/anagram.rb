@@ -11,6 +11,6 @@ class Anagram
     binding.pry
     # array.keep_if do |w| 
     #   word.split("").sort == w.split("").sort
-    end
+    # end
   end
 end
